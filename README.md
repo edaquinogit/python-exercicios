@@ -1,37 +1,33 @@
-# 📌 Projeto de Estudos em Programação
+# 🚀 Minha Evolução em Python: Da Lógica ao POO
 
-Este repositório foi criado com o objetivo de **praticar lógica de programação e versionamento de código**, utilizando **Git e GitHub** como parte do meu aprendizado inicial em desenvolvimento de software.
+Este diretório contém a minha jornada de aprendizagem intensiva em Python (6h diárias). O objetivo é documentar a transição de scripts de lógica simples para arquiteturas orientadas a objetos e APIs robustas.
 
-O projeto reúne exercícios e exemplos simples, focados em construir uma base sólida para projetos futuros.
+## 📌 Progresso Atual: Orientação a Objetos (POO)
 
----
+Atualmente, estou focado em dominar os pilares do POO para construir sistemas mais organizados e escaláveis.
 
-## 🎯 Objetivo do Projeto
-- Praticar lógica de programação
-- Aprender a usar Git e GitHub no dia a dia
-- Organizar código de forma clara
-- Criar um portfólio inicial público
+### 🏗️ Exercício Recente: Gestor de Tarefas (Versão POO)
+Neste exercício (`primeiro_ex_em_poo.py`), apliquei conceitos fundamentais que mudaram a minha forma de programar:
 
----
-
-## 🧠 Conteúdos Abordados
-- Estruturas condicionais (`if`, `else`)
-- Entrada e saída de dados
-- Simulações de problemas do mundo real
-- Boas práticas básicas de organização de código
+- **Classes e Objetos**: Aprendi a criar "moldes" para os dados.
+- **Método `__init__`**: Compreendi como inicializar atributos e o papel vital do `self` (o objeto a referenciar-se a si próprio).
+- **Gerenciamento de Estado**: Como alterar atributos internos através de métodos (ex: o método `finalizar()` que altera o status da tarefa).
+- **Formatação Avançada**: Uso de `f-strings` com quebras de linha (`\n`) e aspas triplas para criar interfaces de terminal mais limpas.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
-- Python 3
-- Visual Studio Code
-- Git
-- GitHub
+## 🛠️ Tecnologias e Conceitos Praticados
+- [x] Lógica de Programação Básica
+- [x] Manipulação de Strings e Listas
+- [x] Criação de APIs REST (Experiência anterior)
+- [ ] **POO Intermediário (Em progresso)**
+- [ ] Integração com Bases de Dados (Próximo passo)
 
 ---
 
-## ▶️ Como Executar o Projeto
-1. Clone este repositório:
-   ```bash
-   git clone: https: https://github.com/edaquinogit/python-exercicios
+## 💡 Como estou a estudar?
+- **Carga Horária:** 6 horas/dia.
+- **Metodologia:** Teoria aplicada imediatamente a exercícios práticos. Só avanço para o próximo nível quando o código atual está "limpo" e funcional (Clean Code).
 
+---
+*“Dominar a base é o único caminho para construir o complexo.”*
