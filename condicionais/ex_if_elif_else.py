@@ -30,3 +30,4 @@ else:
 print()
 
 print("Obrigado por utilizar nosso sistema de verificação de idade!")
+print()

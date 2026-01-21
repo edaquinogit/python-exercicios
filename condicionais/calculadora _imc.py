@@ -34,9 +34,9 @@ def peso_ideal(classificar_imc):
     else:
         return(nome) + "Você não está com o peso ideal. Vamos cuidar da saúde!"
     
-#Exibincdo os resulyados
+#Exibincdo os resultados
 
 print("Olá,{nome}! Seu IMC é de {resultado:.2f},"
      .format(nome=nome, resultado=resultado, classificar_imc=classificar_imc, peso_ideal=peso_ideal(classificar_imc)))
-print("Classificação do IMC:", classificar_imc(peso_ideal))
+print("Classificação do IMC:", classificar_imc(resultado))
    

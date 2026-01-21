@@ -1,5 +1,4 @@
 print("\nPrimeiro exemplo em poo python\n")
-
 # Definindo classes e objetos em python
 
 class Tarefa:
