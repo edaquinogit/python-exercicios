@@ -1,3 +1,5 @@
+# exercicio de saldo
+
 class Usuario:
     def __init__(self, nome_inicial, senha_inicial):
         self.nome = nome_inicial
@@ -15,7 +17,7 @@ class Usuario:
 
     def saque(self, valor_sacado):
         if valor_sacado > 0:
-            valor_sacado - self.saldo
+            valor_sacado -= self.saldo
         else:
             print("Saque de {valor_sacado:.2f} realizado com Sussesso")
 

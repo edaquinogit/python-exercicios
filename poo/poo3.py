@@ -1,3 +1,5 @@
+# exercicio do personagem
+
 class Jogador:
     def __init__(self, nome):
         self.nome = nome
